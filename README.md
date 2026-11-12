@@ -17,7 +17,7 @@ Desenvolvedor de Sistemas na **Secretaria da Fazenda**, focado em soluções em 
 
 ## 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jreggiani&show_icons=true&theme=default&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jreggiani&theme=default)
 
 ## 📫 Contato
 
